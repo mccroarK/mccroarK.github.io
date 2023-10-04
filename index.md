@@ -1,2 +1,2 @@
 # Hello World!
-<a href="test.html">Test Page</a>
+<a href="test.md">Test Page</a>
