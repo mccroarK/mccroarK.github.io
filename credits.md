@@ -10,7 +10,9 @@ Craiyon
 Removal.AI
 
 # Image Editing
-paint.net [https://www.getpaint.net/](https://www.getpaint.net/)
+paint.net [https://www.getpaint.net/](https://www.getpaint.net/)\
+cq (Color Quantizer) []()\
+CRTGB palette by skeddles on Lospec [https://lospec.com/palette-list/crtgb](https://lospec.com/palette-list/crtgb)
 
 # Illegible text:
 Me
