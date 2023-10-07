@@ -16,3 +16,7 @@ CRTGB palette by skeddles on Lospec [https://lospec.com/palette-list/crtgb](http
 
 # Illegible text:
 Me
+
+# Dataman Project Group
+Gina Jordan
+Kevin McCroary
