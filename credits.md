@@ -11,7 +11,7 @@ Removal.AI
 
 # Image Editing
 paint.net [https://www.getpaint.net/](https://www.getpaint.net/)\
-cq (Color Quantizer) (https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/Color-quantizer.shtml)\
+cq (Color Quantizer) [https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/Color-quantizer.shtml]
 CRTGB palette by skeddles on Lospec [https://lospec.com/palette-list/crtgb](https://lospec.com/palette-list/crtgb)
 
 # Illegible text:
