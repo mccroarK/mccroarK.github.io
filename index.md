@@ -11,13 +11,13 @@ To feed, students must answer math questions correctly. This will earn them poin
 "M3 W1TH0UT F00D M4K3 M3 V3RY S4D. M3 W1TH F00D M4K3 M3 H4PPY. M0R3 H4PPY M34N M0R3 P01NT5, BUT M0R3 P01NT M34N M0R3 CH4LL3NG3."
 
 M3 S4D:
-image-sad
+cat-sad.png
 
 M3 N0RM4L:
-image-normal
+cat-normal.png
 
 M3 H4PPY:
-image-happy
+cat-happy.png
 
 # Virtual Cat Care
 Along with answering math questions, students can buy their C4T things like toys and games so that they can have fun. They can get yarn and toy mice, or play games with with them like Rock Paper Scissors.
