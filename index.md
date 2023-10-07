@@ -27,4 +27,4 @@ Along with answering math questions, students can buy their C4T things like toys
 Teachers and parents can monitor their students'/childrens' progress through a dashboard. They can track how well they are doing and input/remove their own questions.
 
 # Credits
-<a href="credits.md">Credits</a>
+[credits.md](credits.md)
