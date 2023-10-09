@@ -1,5 +1,5 @@
 # H3ll0 W0rLD!
-<img src="cat-normal.png" width="256">\
+<img src="cat-image.png" width="256">\
 "M30W. MY N4M3 1S DATAC4T. 4NSW3R QU3ST10Ns 2 F33D M3. M4NY TH1NGS 1 H4V3 2 0FF3R."
 
 # Virtual C4T Companion
